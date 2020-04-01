@@ -1,0 +1,19 @@
+{
+  "name": "node-find-appointment",
+  "version": "1.0.0",
+  "description": "NodeJS technical practice - Find Appointments",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "find",
+    "appointment"
+  ],
+  "author": "m3yevn",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
