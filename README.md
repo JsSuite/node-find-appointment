@@ -17,10 +17,10 @@ place from 09:00 - 11:00, the next possible start time would be 11:00
 
 ### How to setup ⚙️
 
-``
-$ git clone </br>
+```sh
+$ git clone
 $ npm install
-``
+```
 
 ### How to run normally 🏃‍♂️
 
