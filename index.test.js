@@ -63,7 +63,7 @@ describe('Finding appointment for 72 minutes', () => {
     expect(bestPossibleTime.hasOwnProperty('endTime')).toBeTruthy();
   });
 
-  it('should get 12:15 as startTime and 13:25 as endTime', () => {
+  it('should get 12:15 as startTime and 13:27 as endTime', () => {
     expect(bestPossibleTime.startTime).toBe('12:15');
     expect(bestPossibleTime.endTime).toBe('13:27');
   });
